@@ -17,7 +17,6 @@
 </div>
 <div class="py-80 w-screen flex justify-center items-center bg-black">
 	<div class="text-white">
-		<img src={chili} alt="The office chili cleanup" class="pb-8" />
 		<h2 class="text-5xl font-bold font-sans lowercase">There's more. Trust me.</h2>
 		<p class="text-xl">Your butt will thank me.</p>
 	</div>
