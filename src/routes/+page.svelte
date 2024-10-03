@@ -21,7 +21,7 @@
 		</div>
 		<div class="text-white max-w-screen-md pb-12">
 			<h2 class="text-5xl font-bold font-sans lowercase">#3 No clogs</h2>
-			<p class="text-xl">With toilet paper in order to get a clean butt, you need to use kind of a lot. With a bidet, at the most you'll use one square to dry off.</p>
+			<p class="text-xl">To get a clean butt with toilet paper, you need to use quite a bit. With a bidet, at most, you'll use just one square to dry off.</p>
 		</div>
 		<div class="text-white">
 			<h2 class="text-5xl font-bold font-sans lowercase">There's more. Trust me.</h2>
